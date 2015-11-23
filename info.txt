@@ -1,0 +1,46 @@
+   Regras do jogo:
+
+   Seu objetivo eh mover a primeira pilha de discos da primeira torre
+   para qualquer uma das outras torres.
+   Voce so pode mover um disco por vez.
+   Voce nao pode colocar um disco maior em cima de um menor.
+
+o----------------------------------------------------------------------o
+
+   Como jogar:
+
+   Para efetuar uma jogada, voce deve informar a torre de origem e
+   a torre de destino do disco mais acima na pilha.
+   Para voltar uma jogada no modo de treino, pressione 0 na origem.
+   O jogo comeca com um padrao de 5 discos. Caso queira mudar, utilize
+   a opcao 'Configuracoes' (C) no menu principal.
+
+o----------------------------------------------------------------------o
+
+   Modo treino:
+
+   O modo treino permite voltar jogadas, assim como nao conta o tempo
+   e nem armazena o ranking do jogador. Otimo para aprender a jogar.
+
+o----------------------------------------------------------------------o
+
+   Historia do jogo:
+
+   A Torre de Hanoi foi inventada em 1883 por um matematico frances,
+   Edouard Lucas. O nome do jogo foi inspirado na cidade de Hanoi, no
+   Vietna, apesar de tambem ser conhecida como Torre de Lucas.
+   Existe uma lenda sobre a Torre de Hanoi que diz respeito a um templo
+   Hindu, onde havia uma torre de 64 discos, e diziasse que quando todos
+   os discos fossem transferidos para outra torre, o mundo acabaria.
+
+o----------------------------------------------------------------------o
+
+   Curiosidades Matematicas:
+
+   Existe uma formula para se calcular a quantidade necessaria de
+   movimentos para concluir a torre.  A formula eh (2^n)-1, onde n
+   eh a quantidade de discos da torre.
+   Ou seja, para se resolver uma Torre de Hanoi de 64 discos, seriam
+   necessarios mais de 18,5 quinquilhoes de movimentos!
+
+o----------------------------------------------------------------------o
